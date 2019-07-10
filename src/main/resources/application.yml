@@ -1,0 +1,6 @@
+server:
+  port: 8881
+
+logging:
+  level:
+    guru: debug
